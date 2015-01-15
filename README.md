@@ -6,8 +6,8 @@ Feel free to fork the repo, and add anything youd like to see in it :)
 
 ### Instructions to run the robot locally
 
-1. Clone the repo
-2 ```cd Disco_Robot```
-3. open ```robot.html``` 
+*  Clone the repo
+*  ```cd Disco_Robot```
+*   open ```robot.html``` 
 
 Pour some whiskey, turn on some techno and have a wicked strobe light party. :) 
