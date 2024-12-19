@@ -1,6 +1,10 @@
 .robot {
   position: relative;
   left: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
 .beep {
@@ -11,6 +15,16 @@
   border-bottom: 80px solid #888;
   position: relative;
   left: 140px;
+}
+
+.buttons {
+  position: relative;
+  left: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
 }
 
 @keyframes blink {
